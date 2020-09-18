@@ -4,3 +4,4 @@ __pycache__/
 
 # Virtualenv
 Env/*
+Test/
